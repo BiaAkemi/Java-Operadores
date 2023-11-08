@@ -5,7 +5,7 @@ Exercícios envolvendo operadores em Java para atividade do módulo 8 da Generat
 Em todos os casos optei por importar a biblioteca "*import java.util.Locale*", setando no idioma o US para que a entrada e saída ficasse como no enunciado (com pontos no lugar de vírgulas).<br>
 Também havia tentado ler o *input* em String, convertendo-o para float após - Float.parseFloat(leia.nextLine()); -, mas acredito que dessa forma o programa fique mais leve.
 
-[<img src="https://github.com/BiaAkemi/Java-Sololearn-projects/assets/145511213/de65ccef-9571-4d87-a2a8-ce5d5c0ec456">](https://github.com/BiaAkemi/Java-Operadores/blob/main/SalarioAbono.java)
+![https://github.com/BiaAkemi/Java-Operadores/blob/main/SalarioAbono.java](<https://github.com/BiaAkemi/Java-Sololearn-projects/assets/145511213/de65ccef-9571-4d87-a2a8-ce5d5c0ec456>)
 Dado o Fluxograma abaixo, desenvolva o algoritmo abaixo na Linguagem Java: 
 Início -> Digite o salário: -> Leia o salário -> Digite o abono: -> Novo salário = Salário + Abono -> Exibe o Novo salário -> Fim
 
